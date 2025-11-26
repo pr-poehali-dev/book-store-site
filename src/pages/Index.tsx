@@ -547,7 +547,7 @@ const Index = () => {
                     <Icon name="MapPin" size={24} className="text-accent flex-shrink-0 mt-1" />
                     <div>
                       <p className="font-semibold">Адрес:</p>
-                      <p className="text-muted-foreground">г. Москва, ул. Литературная, д. 15</p>
+                      <p className="text-muted-foreground">г. Киров, ул. Воровского, д. 106</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
@@ -562,14 +562,14 @@ const Index = () => {
                     <Icon name="Phone" size={24} className="text-accent flex-shrink-0 mt-1" />
                     <div>
                       <p className="font-semibold">Телефон:</p>
-                      <p className="text-muted-foreground">+7 (495) 123-45-67</p>
+                      <p className="text-muted-foreground">+7 (953) 132-84-06</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3">
-                    <Icon name="Mail" size={24} className="text-accent flex-shrink-0 mt-1" />
+                    <Icon name="User" size={24} className="text-accent flex-shrink-0 mt-1" />
                     <div>
-                      <p className="font-semibold">Email:</p>
-                      <p className="text-muted-foreground">info@chitaem-vmeste.ru</p>
+                      <p className="font-semibold">Владелец:</p>
+                      <p className="text-muted-foreground">Александра Федотова</p>
                     </div>
                   </div>
                 </CardContent>
@@ -638,9 +638,9 @@ const Index = () => {
             <div>
               <h4 className="text-lg font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-sm opacity-90">
-                <li>г. Москва, ул. Литературная, д. 15</li>
-                <li>+7 (495) 123-45-67</li>
-                <li>info@chitaem-vmeste.ru</li>
+                <li>г. Киров, ул. Воровского, д. 106</li>
+                <li>+7 (953) 132-84-06</li>
+                <li>Александра Федотова</li>
               </ul>
             </div>
           </div>
