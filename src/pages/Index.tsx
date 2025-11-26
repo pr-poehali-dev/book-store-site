@@ -50,7 +50,7 @@ const Index = () => {
       author: 'Михаил Булгаков',
       description: 'Роман о добре и зле, любви и предательстве. Сатирическая история о визите дьявола в советскую Москву.',
       rating: 5,
-      image: 'https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=300&h=400&fit=crop',
+      image: 'https://cdn.poehali.dev/projects/f6df2cd5-4257-4222-8c00-83bb27e4fe08/files/7cdc119f-ac70-4e7a-87dd-d7cd1e74ce62.jpg',
       price: '850₽',
       genre: 'Классика'
     },
@@ -60,7 +60,7 @@ const Index = () => {
       author: 'Фёдор Достоевский',
       description: 'Психологический роман о студенте Раскольникове, решившемся на убийство и столкнувшемся с муками совести.',
       rating: 5,
-      image: 'https://images.unsplash.com/photo-1512820790803-83ca734da794?w=300&h=400&fit=crop',
+      image: 'https://cdn.poehali.dev/projects/f6df2cd5-4257-4222-8c00-83bb27e4fe08/files/e4fb9742-b36c-4493-80c9-b166173bd94a.jpg',
       price: '920₽',
       genre: 'Классика'
     },
@@ -70,7 +70,7 @@ const Index = () => {
       author: 'Лев Толстой',
       description: 'История трагической любви замужней дамы высшего света Анны Карениной и блестящего офицера Вронского.',
       rating: 5,
-      image: 'https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=300&h=400&fit=crop',
+      image: 'https://cdn.poehali.dev/projects/f6df2cd5-4257-4222-8c00-83bb27e4fe08/files/bc8bc4c0-7283-4b65-bc31-d71f5850f41b.jpg',
       price: '1050₽',
       genre: 'Классика'
     },
@@ -80,7 +80,7 @@ const Index = () => {
       author: 'Александр Пушкин',
       description: 'Роман в стихах о молодом дворянине, пресыщенном светской жизнью, и его неразделённой любви.',
       rating: 5,
-      image: 'https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=400&fit=crop',
+      image: 'https://cdn.poehali.dev/projects/f6df2cd5-4257-4222-8c00-83bb27e4fe08/files/5ec6bd99-39fe-4966-882a-3a50a3cae361.jpg',
       price: '680₽',
       genre: 'Поэзия'
     },
@@ -90,7 +90,7 @@ const Index = () => {
       author: 'Фёдор Достоевский',
       description: 'Роман о князе Мышкине, человеке исключительной доброты и чистоты души в мире корысти и страстей.',
       rating: 5,
-      image: 'https://images.unsplash.com/photo-1519682577862-22b62b24e493?w=300&h=400&fit=crop',
+      image: 'https://cdn.poehali.dev/projects/f6df2cd5-4257-4222-8c00-83bb27e4fe08/files/017811b3-4bc9-412c-bf11-ecf661ec8d1a.jpg',
       price: '890₽',
       genre: 'Классика'
     },
@@ -100,7 +100,7 @@ const Index = () => {
       author: 'Лев Толстой',
       description: 'Эпический роман о жизни русского общества в эпоху войн против Наполеона.',
       rating: 5,
-      image: 'https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=300&h=400&fit=crop',
+      image: 'https://cdn.poehali.dev/projects/f6df2cd5-4257-4222-8c00-83bb27e4fe08/files/bffad741-9a82-400f-82b9-f5bdb7913f07.jpg',
       price: '1250₽',
       genre: 'Классика'
     }
